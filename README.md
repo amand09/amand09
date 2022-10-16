@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
 <h3 align="center">Web Developer|2.5k+ YouTube Follower |Content Creator |Unacademy |Learner</h3>
 
+- My Instagram Page : [@amandwivedi.26](@amandwivedi.26)
+
+- My YouTube Channel : [https://www.youtube.com/c/Dreaminger](https://www.youtube.com/c/Dreaminger)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman dwivei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman dwivei" height="30" width="40" /></a>
