@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer|2.5k+ YouTube Follower |Content Creator |Unacademy |Learner</h3>
 <h4>I am a 2nd year college student doing bachelors in Technology in Electronics & Communication Engineering <br><br>I have interest in Web Developement.<br><br>I code formally in C++<br><br>Thanks for taking time to read this. Follow me to hear more about me. :)</h4>
 
-- My Instagram Page : [@amandwivedi.26](@amandwivedi.26)
+- My Instagram Page : [https://www.instagram.com/amandwivedi.26/](https://www.instagram.com/amandwivedi.26/)
 
 - My YouTube Channel : [https://www.youtube.com/c/Dreaminger](https://www.youtube.com/c/Dreaminger)
 
