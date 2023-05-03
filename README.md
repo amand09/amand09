@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
+## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Aman Dwivedi
 
 <h3 align="center">Web Developer|3k+ YouTube Follower |Content Creator |Unacademy |Learner</h3>
 <h4>I am a 2nd year college student doing bachelors in Technology in Electronics & Communication Engineering <br><br>I have interest in Web Developement.<br><br>I code formally in C++<br><br>Thanks for taking time to read this. Follow me to hear more about me. :)</h4>
