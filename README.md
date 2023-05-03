@@ -7,17 +7,15 @@
 
 - My YouTube Channel : [https://www.youtube.com/c/Dreaminger](https://www.youtube.com/c/Dreaminger)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-soni-5649a2192/)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sakshams23/)
-[![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sakshams23)
-[![CodeChef Badge](https://img.shields.io/badge/Codeforces-%23B92B27.svg?&style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sakshams23)
+[![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/aman_2609)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/amandwivedi9012)
+[![HackerRank Badge](https://img.shields.io/badge/Codeforces-%23B92B27.svg?&style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sak)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman dwivei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman dwivei" height="30" width="40" /></a>
 <a href="https://instagram.com/amandwivedi.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amandwivedi.26" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dreminger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dreminger" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amandwivedi9012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amandwivedi9012" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@amandwivedi9012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amandwivedi9012" height="30" width="40" /></a>
 </p>
 
